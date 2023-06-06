@@ -1,1 +1,1 @@
-This is the official reposirtory of The code bird website
+This is the official reposirtory of The code bird Application
